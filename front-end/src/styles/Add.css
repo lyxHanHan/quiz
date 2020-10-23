@@ -1,0 +1,11 @@
+
+.item{
+  display: inline;
+}
+.button{
+    margin-left: -120px;
+    margin-top: 20px;
+}
+.footer{
+    background-color: cornflowerblue;
+}
